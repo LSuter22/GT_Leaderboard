@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GT Leaderboard</string>
+    <string name="add_time_button_label">addtimebuttonlabel</string>
+    <string name="name">Name:</string>
+    <string name="time">Time:</string>
+    <string name="sean">Sean</string>
+    <string name="timeexample">01:31:27</string>
+</resources>
